@@ -1,0 +1,29 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#010418"/>
+      <stop offset="40%" stop-color="#040c38"/>
+      <stop offset="100%" stop-color="#010316"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Shield -->
+  <path d="M100 80L60 100V130C60 160 78 188 100 200C122 188 140 160 140 130V100Z" fill="url(#gold)"/>
+  <text x="100" y="158" font-family="serif" font-weight="900" font-size="40" fill="#01051f" text-anchor="middle">EGG</text>
+  <!-- Title -->
+  <text x="170" y="130" font-family="serif" font-weight="900" font-size="42" fill="white">EGG Özel Güvenlik</text>
+  <text x="170" y="170" font-family="sans-serif" font-weight="300" font-size="20" fill="rgba(251,191,36,0.7)" letter-spacing="3">EĞİTİM KURUMU · ADANA</text>
+  <!-- Main text -->
+  <text x="100" y="320" font-family="serif" font-weight="900" font-size="68" fill="white">Güvenlik Kariyerine</text>
+  <text x="100" y="400" font-family="serif" font-weight="900" font-size="68" fill="url(#gold)">EGG ile Başla</text>
+  <!-- Stats -->
+  <text x="100" y="490" font-family="sans-serif" font-size="24" fill="rgba(255,255,255,0.6)">✓ İçişleri Bakanlığı Onaylı  ·  ✓ %94 Başarı Oranı  ·  ✓ 2.500+ Mezun</text>
+  <!-- Phone -->
+  <text x="100" y="550" font-family="sans-serif" font-size="26" fill="rgba(251,191,36,0.9)" font-weight="700">0546 267 89 79  |  egg-guvenlik.com</text>
+  <!-- Bottom line -->
+  <rect x="0" y="610" width="1200" height="3" fill="url(#gold)"/>
+</svg>
