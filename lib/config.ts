@@ -25,6 +25,7 @@ export const NAV_LINKS = [
   { label: "Eğitimler", href: "/egitimler" },
   { label: "Kayıt",     href: "/kayit-sureci" },
   { label: "Online Test", href: "/online-test" },
+  { label: "Ders Notları", href: "/ders-notlari" },
   { label: "SSS",       href: "/sss" },
   { label: "Hakkımızda",href: "/hakkimizda" },
   { label: "İletişim",  href: "/iletisim" },
