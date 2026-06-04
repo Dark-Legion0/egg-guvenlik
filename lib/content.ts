@@ -99,7 +99,7 @@ export const BLOG_POSTS: BlogPost[] = [
     metaTitle: "Adana Özel Güvenlik Kursu Nasıl Seçilir? | EGG Güvenlik",
     metaDesc: "Adana'da özel güvenlik kursu ararken nelere dikkat etmelisiniz? Devlet onayı, eğitmen kalitesi ve başarı oranlarını karşılaştırın.",
     cat: "Rehber", catColor: "tag-green", catGroup: "Eğitim Rehberi",
-    read: "8 dk", date: "Mart 2025",
+    read: "8 dk", date: "Mart 2026",
     desc: "Adana'da özel güvenlik kursu ararken dikkat etmeniz gereken kriterler ve doğru kurumu seçme rehberi.",
     toc: ["Devlet Onayını Kontrol Edin","Başarı Oranlarına Bakın","Eğitmen Kadrosunu Araştırın","Kontenjan ve Dönem Takvimi","Sonuç"],
     body: `
@@ -127,7 +127,7 @@ export const BLOG_POSTS: BlogPost[] = [
     metaTitle: "Silahlı Özel Güvenlik Belgesi Nasıl Alınır? | EGG Güvenlik",
     metaDesc: "Silahlı özel güvenlik belgesi almak için gerekli şartlar, başvuru süreci, evrak listesi ve sınav aşamaları hakkında kapsamlı rehber.",
     cat: "Silahlı", catColor: "tag-gold", catGroup: "Eğitim Rehberi",
-    read: "10 dk", date: "Şubat 2025",
+    read: "10 dk", date: "Şubat 2026",
     desc: "Silahlı güvenlik belgesi alma süreci, gerekli evraklar ve sınav aşamaları hakkında kapsamlı rehber.",
     toc: ["Silahlı Belge Nedir?","Başvuru Şartları","Gerekli Evraklar","120 Saatlik Eğitim","Sınav Süreci","Belge Hangi Avantajları Sağlar?"],
     body: `
@@ -178,7 +178,7 @@ export const BLOG_POSTS: BlogPost[] = [
     metaTitle: "Silahsız Özel Güvenlik Eğitimi Kimler İçin Uygundur? | EGG",
     metaDesc: "Silahsız özel güvenlik eğitimi kimlere uygundur? Çalışma alanları, şartlar ve kariyer fırsatları hakkında eksiksiz rehber.",
     cat: "Silahsız", catColor: "tag-blue", catGroup: "Eğitim Rehberi",
-    read: "7 dk", date: "Ocak 2025",
+    read: "7 dk", date: "Ocak 2026",
     desc: "Silahsız güvenlik eğitimine kimlerin katılabileceği, çalışma alanları ve kariyer fırsatları hakkında kapsamlı rehber.",
     toc: ["Silahsız Eğitim Nedir?","Kimler İçin İdeal?","Çalışma Alanları","Başvuru Şartları","Eğitim Süreci"],
     body: `
@@ -216,7 +216,7 @@ export const BLOG_POSTS: BlogPost[] = [
     metaTitle: "Özel Güvenlik Olmak İçin Şartlar | EGG Özel Güvenlik",
     metaDesc: "Özel güvenlik görevlisi olmak için gereken yaş, eğitim, sağlık ve hukuki şartları öğrenin. Güncel bilgilerle eksiksiz rehber.",
     cat: "Genel", catColor: "tag-green", catGroup: "Kayıt Şartları",
-    read: "8 dk", date: "Ocak 2025",
+    read: "8 dk", date: "Ocak 2026",
     desc: "Yaş, eğitim, sağlık ve başvuru koşulları. Güvenlik kariyerine başlamadan önce bilmeniz gerekenler.",
     toc: ["Yaş Şartı","Eğitim Şartı","Sağlık Şartları","Güvenlik Soruşturması","Yabancı Uyruklu Adaylar","Başvuru Nasıl Yapılır?"],
     body: `
@@ -308,15 +308,15 @@ export const BLOG_POSTS: BlogPost[] = [
     slug: "ozel-guvenlik-maasi-ne-kadar",
     image: "/images/blog/blog-sinav.svg",
     title: "Özel Güvenlik Görevlisi Maaşı Ne Kadar?",
-    metaTitle: "Özel Güvenlik Maaşı 2025 | EGG Güvenlik",
-    metaDesc: "2025 yılında özel güvenlik görevlisi maaşları, silahlı ve silahsız arasındaki farklar ve sektöre göre ücret karşılaştırması.",
+    metaTitle: "Özel Güvenlik Maaşı 2026 | EGG Güvenlik",
+    metaDesc: "2026 yılında özel güvenlik görevlisi maaşları, silahlı ve silahsız arasındaki farklar ve sektöre göre ücret karşılaştırması.",
     cat: "Kariyer", catColor: "tag-green", catGroup: "Kariyer Rehberi",
-    read: "6 dk", date: "Mart 2025",
-    desc: "Silahlı ve silahsız güvenlik görevlilerinin 2025 maaş aralıkları, sektöre göre ücret farklılıkları ve ek gelir kalemleri.",
+    read: "6 dk", date: "Mart 2026",
+    desc: "Silahlı ve silahsız güvenlik görevlilerinin 2026 maaş aralıkları, sektöre göre ücret farklılıkları ve ek gelir kalemleri.",
     toc: ["Genel Ücret Aralığı","Silahlı vs Silahsız Farkı","Sektöre Göre Maaşlar","Yan Haklar ve Ek Ödemeler","Maaşı Artıran Faktörler"],
     body: `
 <h2 id="toc-0">Genel Ücret Aralığı</h2>
-<p>2025 yılı itibarıyla özel güvenlik görevlisi maaşları; deneyim, belge türü ve çalışılan sektöre bağlı olarak aylık net 18.000–35.000 TL aralığında seyretmektedir. Asgari ücretin üzerinde başlayan bu rakamlar, kıdemle birlikte belirgin biçimde yükselmektedir.</p>
+<p>2026 yılı itibarıyla özel güvenlik görevlisi maaşları; deneyim, belge türü ve çalışılan sektöre bağlı olarak aylık net 18.000–35.000 TL aralığında seyretmektedir. Asgari ücretin üzerinde başlayan bu rakamlar, kıdemle birlikte belirgin biçimde yükselmektedir.</p>
 <h2 id="toc-1">Silahlı ve Silahsız Arasındaki Fark</h2>
 <p>Silahlı güvenlik belgesi, ortalama %20–30 daha yüksek ücret anlamına gelmektedir. Bunun temel nedeni, silahlı pozisyonların daha fazla sorumluluk gerektirmesi ve bazı alanlarda zorunlu tutulmasıdır. Fabrika, banka ve havalimanı gibi güvenlik yoğun sektörlerde silahlı personel talebi, ücretleri de yukarıya taşımaktadır.</p>
 <h2 id="toc-2">Sektöre Göre Maaşlar</h2>
@@ -337,10 +337,10 @@ export const BLOG_POSTS: BlogPost[] = [
     slug: "ozel-guvenlik-kariyer-firsatlari",
     image: "/images/blog/blog-adana.webp",
     title: "Özel Güvenlik Sektöründe Kariyer Fırsatları",
-    metaTitle: "Özel Güvenlik Kariyer Fırsatları 2025 | EGG Güvenlik",
+    metaTitle: "Özel Güvenlik Kariyer Fırsatları 2026 | EGG Güvenlik",
     metaDesc: "Özel güvenlik sektöründe hangi pozisyonlar var, kariyer basamakları nasıl ilerler, hangi alanlarda en fazla istihdam bulunur?",
     cat: "Kariyer", catColor: "tag-green", catGroup: "Kariyer Rehberi",
-    read: "7 dk", date: "Şubat 2025",
+    read: "7 dk", date: "Şubat 2026",
     desc: "Güvenlik sektöründe kariyer basamakları, yönetici pozisyonları ve en fazla istihdam sağlayan sektörler.",
     toc: ["Sektörün Büyüme Trendi","Kariyer Basamakları","En Fazla İstihdam Sağlayan Alanlar","Yönetici Pozisyonları","Kariyer Tavsiyesi"],
     body: `
@@ -369,7 +369,7 @@ export const BLOG_POSTS: BlogPost[] = [
     metaTitle: "Silahlı Güvenlik Çalışma Alanları | EGG Güvenlik",
     metaDesc: "Silahlı özel güvenlik belgesi ile çalışılabilecek alanlar, avantajlı sektörler ve iş bulma sürecinde dikkat edilmesi gerekenler.",
     cat: "Kariyer", catColor: "tag-gold", catGroup: "Kariyer Rehberi",
-    read: "6 dk", date: "Ocak 2025",
+    read: "6 dk", date: "Ocak 2026",
     desc: "Silahlı özel güvenlik belgesinin geçerli olduğu çalışma alanları ve her sektörün sunduğu kariyer avantajları.",
     toc: ["Silahlı Belgenin Farkı","Bankacılık ve Finans","Havalimanı ve Liman","Endüstriyel Tesisler","VIP ve Özel Koruma","Başvuru Önerileri"],
     body: `
@@ -419,7 +419,7 @@ export const BLOG_POSTS: BlogPost[] = [
     metaTitle: "Özel Güvenlik Kayıt Evrakları Tam Liste | EGG Güvenlik",
     metaDesc: "Silahlı ve silahsız özel güvenlik eğitimi kaydı için gereken belgelerin tam listesi ve her belge için pratik bilgiler.",
     cat: "Evrak", catColor: "tag-blue", catGroup: "Kayıt Şartları",
-    read: "5 dk", date: "Mart 2025",
+    read: "5 dk", date: "Mart 2026",
     desc: "Silahlı ve silahsız eğitim kaydı için gereken belgelerin tam listesi, nereden alınacağı ve dikkat edilmesi gerekenler.",
     toc: ["Ortak Evraklar","Silahlı Eğitime Özel Belgeler","Belgeleri Nereden Alırsınız?","Eksik Evrak Durumunda"],
     body: `
@@ -450,7 +450,7 @@ export const BLOG_POSTS: BlogPost[] = [
     metaTitle: "Özel Güvenlik Sağlık Raporu Rehberi | EGG Güvenlik",
     metaDesc: "Silahsız ve silahlı özel güvenlik için gerekli sağlık raporu türleri, hangi hastanelerden alınabileceği ve raporlarda aranan kriterler.",
     cat: "Evrak", catColor: "tag-blue", catGroup: "Kayıt Şartları",
-    read: "5 dk", date: "Şubat 2025",
+    read: "5 dk", date: "Şubat 2026",
     desc: "Silahlı ve silahsız güvenlik eğitimi için hangi hastaneden, nasıl sağlık raporu alınacağına dair eksiksiz rehber.",
     toc: ["Silahsız İçin Sağlık Raporu","Silahlı İçin Sağlık Kurulu Raporu","Özel Hastane Raporları Geçerli mi?","Raporlarda Aranan Kriterler","Sık Yapılan Hatalar"],
     body: `
@@ -473,7 +473,7 @@ export const BLOG_POSTS: BlogPost[] = [
     metaTitle: "Adli Sicil Belgesi Alma Rehberi | EGG Güvenlik",
     metaDesc: "Özel güvenlik başvurusu için gereken adli sicil belgesini e-devlet, PTT veya adliye üzerinden nasıl alırsınız? Adım adım rehber.",
     cat: "Evrak", catColor: "tag-blue", catGroup: "Kayıt Şartları",
-    read: "4 dk", date: "Ocak 2025",
+    read: "4 dk", date: "Ocak 2026",
     desc: "E-devlet, PTT ve adliye üzerinden adli sicil belgesi alma yöntemleri ve güvenlik başvurusu için dikkat edilmesi gerekenler.",
     toc: ["E-Devlet Üzerinden","PTT Şubesinden","Adliyeden","Belgenin Geçerlilik Süresi","Sabıka Kaydı Varsa"],
     body: `
@@ -498,7 +498,7 @@ export const BLOG_POSTS: BlogPost[] = [
     metaTitle: "Özel Güvenlik Sınav Konuları | EGG Güvenlik",
     metaDesc: "İçişleri Bakanlığı özel güvenlik sınavında çıkan konular, soru dağılımı ve her konudan ne kadarlık ağırlık bekleneceği.",
     cat: "Sınav", catColor: "tag-gold", catGroup: "Sınav Süreci",
-    read: "7 dk", date: "Şubat 2025",
+    read: "7 dk", date: "Şubat 2026",
     desc: "Özel güvenlik sınavındaki konu başlıkları, soru dağılımı ve her modül için çalışma önerileri.",
     toc: ["Sınavın Genel Yapısı","5188 Sayılı Kanun","Güvenlik Uygulamaları","Temel İlk Yardım","Silah Bilgisi (Silahlı)","Çalışma Stratejisi"],
     body: `
@@ -523,7 +523,7 @@ export const BLOG_POSTS: BlogPost[] = [
     metaTitle: "Özel Güvenlik Sınav Sonuçları | EGG Güvenlik",
     metaDesc: "Özel güvenlik sınav sonuçlarının açıklanma süreci, sonuçlara nereden bakılacağı ve sonraki adımlar hakkında rehber.",
     cat: "Sınav", catColor: "tag-gold", catGroup: "Sınav Süreci",
-    read: "5 dk", date: "Ocak 2025",
+    read: "5 dk", date: "Ocak 2026",
     desc: "Sınav sonuçlarının ne zaman ve nasıl açıklandığı, itiraz süreci ve sonuç sonrası yapılması gerekenler.",
     toc: ["Sonuçların Açıklanma Süresi","Sonuçlara Nasıl Bakılır?","Başarı Durumunda Sonraki Adım","Başarısız Durumda Ne Yapılır?","İtiraz Süreci"],
     body: `
@@ -571,7 +571,7 @@ export const BLOG_POSTS: BlogPost[] = [
     metaTitle: "Özel Güvenlik Yenileme Eğitimi Evrakları | EGG Güvenlik",
     metaDesc: "Özel güvenlik kimlik yenileme eğitimine başvurmak için gerekli belgeler, nereden alınacağı ve dikkat edilmesi gereken detaylar.",
     cat: "Yenileme", catColor: "tag-gray", catGroup: "Yenileme Eğitimi",
-    read: "5 dk", date: "Ocak 2025",
+    read: "5 dk", date: "Ocak 2026",
     desc: "Güvenlik kimliği yenileme başvurusu için tam evrak listesi ve her belgenin nasıl temin edileceğine dair rehber.",
     toc: ["Temel Evrak Listesi","Silahlı Belge Sahipleri İçin Ek Evrak","Belgeleri Nereden Alırsınız?","Başvuru Zamanlaması","Hızlı Kontrol Listesi"],
     body: `
