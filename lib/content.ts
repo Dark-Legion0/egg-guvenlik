@@ -21,8 +21,8 @@ export const FAQ_CATS: FaqCategory[] = [
   {
     label: "Genel Sorular", icon: "🎯",
     items: [
-      { q: "Özel güvenlik olmak için yaş şartı nedir?", a: "18 yaşını doldurmuş olmak zorunludur. Üst yaş sınırı yasal olarak belirlenmemiş olmakla birlikte bazı işverenler kendi tercihlerini uygulayabilir. Güncel şartlar için danışmanımızdan bilgi alabilirsiniz." },
-      { q: "Silahlı güvenlik için ayrı bir yaş şartı var mı?", a: "Silahlı özel güvenlik eğitimi için de asgari yaş 18'dir. Ek bir üst yaş sınırı bulunmamaktadır; ancak tam teşekküllü devlet hastanesinden alınan sağlık kurulu raporunun olumlu çıkması gerekmektedir." },
+      { q: "Özel güvenlik olmak için yaş şartı nedir?", a: "Silahsız özel güvenlik eğitimi için asgari yaş 18'dir. Silahlı özel güvenlik eğitimi için ise asgari yaş 22'dir. Üst yaş sınırı yasal olarak belirlenmemiş olmakla birlikte bazı işverenler kendi tercihlerini uygulayabilir. Güncel şartlar için danışmanımızdan bilgi alabilirsiniz." },
+      { q: "Silahlı güvenlik için ayrı bir yaş şartı var mı?", a: "Silahlı özel güvenlik eğitimi için asgari yaş 22'dir. Ayrıca en az lise mezunu olmak gerekmektedir. Tam teşekküllü devlet hastanesinden alınan sağlık kurulu raporunun da olumlu çıkması zorunludur." },
       { q: "Kadınlar özel güvenlik görevlisi olabilir mi?", a: "Evet. Kadınlar hem silahlı hem silahsız özel güvenlik eğitimine katılabilir. Özellikle havalimanı, AVM ve kurumsal güvenlik alanlarında kadın personele olan talep sürekli artmaktadır." },
       { q: "Özel güvenlik görevlisi ne kadar kazanır?", a: "Maaş; çalışılan sektör, belge türü (silahlı/silahsız) ve deneyime göre değişmektedir. Silahlı belge genellikle daha yüksek ücret imkânı sağlar. Güncel rakamlar için danışmanımızla görüşebilirsiniz." },
       { q: "Askerliğini yapmamış olan başvurabilir mi?", a: "Yasal olarak askerlik şartı aranmamaktadır. Ancak bazı işverenler askerliğini tamamlamış adayları tercih edebilir. Detaylar için danışmanımıza ulaşabilirsiniz." },
@@ -43,7 +43,7 @@ export const FAQ_CATS: FaqCategory[] = [
       { q: "Silahsız özel güvenlik eğitimi kaç gün/saat sürer?", a: "Silahsız özel güvenlik eğitimi 90 saattir. Ders takvimine göre süreç genellikle 1,5–2 ay içinde tamamlanır." },
       { q: "Silahsız belgeyle hangi alanlarda çalışılır?", a: "AVM, site, rezidans, hastane, okul, üniversite, etkinlik alanları ve fabrikalar başta olmak üzere yüzlerce farklı sektörde çalışılabilir. Türkiye'deki güvenlik pozisyonlarının büyük çoğunluğu silahsız belgeyle dolduruluyor." },
       { q: "Silahsız belgeden sonra silahlı belgeye geçiş yapılabilir mi?", a: "Evet. Silahsız belge aldıktan sonra tamamlayıcı silahlı eğitim programına katılarak silahlı belge edinilebilir. Detaylı bilgi için danışmanımızla görüşebilirsiniz." },
-      { q: "Diploma şartı nedir?", a: "En az ilkokul (8 yıllık ilköğretim) mezunu olmak yeterlidir. Lise veya üniversite mezunları için ek eğitim şartı aranmaz." },
+      { q: "Diploma şartı nedir?", a: "Silahsız eğitim için en az ilköğretim (8 yıllık zorunlu eğitim) mezunu olmak yeterlidir. Silahlı eğitim için ise en az lise mezuniyeti gerekmektedir." },
     ],
   },
   {
@@ -60,7 +60,7 @@ export const FAQ_CATS: FaqCategory[] = [
       { q: "Sağlık raporu gerekli mi?", a: "Evet. Silahsız eğitim için herhangi bir resmi sağlık kuruluşundan alınan sağlık raporu yeterlidir. Silahlı eğitim için tam teşekküllü devlet hastanesinden alınan sağlık kurulu raporu zorunludur." },
       { q: "Adli sicil kaydı gerekli mi?", a: "Evet. Temiz adli sicil kaydı (sabıka kaydı) zorunludur. E-devlet veya PTT şubelerinden kolaylıkla temin edilebilir." },
       { q: "Kurs ücretlerini nasıl öğrenebilirim?", a: "Ücretler döneme ve programa göre farklılık gösterebilir. Güncel ücret ve kontenjan bilgisi için WhatsApp hattımızdan veya telefonumuzu arayarak bilgi alabilirsiniz." },
-      { q: "Kayıt için diploma gerekir mi?", a: "Evet. En az ilkokul mezuniyetini kanıtlayan diploma fotokopisi gereklidir." },
+      { q: "Kayıt için diploma gerekir mi?", a: "Evet. Silahsız eğitim için en az ilköğretim, silahlı eğitim için en az lise mezuniyetini kanıtlayan diploma fotokopisi gereklidir." },
       { q: "WhatsApp'tan kayıt bilgisi alabilir miyim?", a: "Evet. WhatsApp hattımız 7/24 aktiftir. Kayıt şartları, evrak listesi, eğitim takvimi ve kurs ücretleri dahil tüm konularda hızlı bilgi alabilirsiniz." },
     ],
   },
@@ -138,7 +138,7 @@ export const BLOG_POSTS: BlogPost[] = [
 <p>Silahlı özel güvenlik eğitimine başvurabilmek için aşağıdaki şartların tamamını karşılamak gerekmektedir:</p>
 <ul>
 <li>18 yaşını doldurmuş Türk vatandaşı olmak</li>
-<li>En az ilkokul (8 yıllık eğitim) mezunu olmak</li>
+<li>Silahlı eğitim için en az lise, silahsız eğitim için en az ilköğretim mezunu olmak</li>
 <li>Güvenlik soruşturması ve arşiv araştırması sonucunun olumlu çıkması</li>
 <li>Tam teşekküllü devlet hastanesinden alınan sağlık kurulu raporunun "silah taşımaya engel yoktur" ibaresi içermesi</li>
 <li>Adli sicil kaydının temiz olması</li>
@@ -204,7 +204,7 @@ export const BLOG_POSTS: BlogPost[] = [
 <li>Fabrika ve üretim tesisi giriş–çıkış güvenliği</li>
 </ul>
 <h2 id="toc-3">Başvuru Şartları</h2>
-<p>18 yaşını doldurmuş, en az ilkokul mezunu, güvenlik soruşturması ve adli sicil kaydı temiz olan Türk vatandaşları başvurabilir. Sağlık raporu olarak herhangi bir resmi sağlık kuruluşundan alınan güncel rapor yeterlidir.</p>
+<p>18 yaşını doldurmuş (silahlı eğitim için 22), en az ilköğretim mezunu (silahlı için lise), güvenlik soruşturması ve adli sicil kaydı temiz olan Türk vatandaşları başvurabilir. Sağlık raporu olarak herhangi bir resmi sağlık kuruluşundan alınan güncel rapor yeterlidir.</p>
 <h2 id="toc-4">90 Saatlik Eğitim Süreci</h2>
 <p>Program teorik ve uygulamalı derslerden oluşur. Güvenlik mevzuatı, iletişim teknikleri, kalabalık yönetimi, ilk yardım ve raporlama standartları başlıca konular arasındadır. Eğitim tamamlandıktan sonra Bakanlık sınavına girilir ve başarı durumunda silahsız özel güvenlik kimliği teslim alınır.</p>
     `,
@@ -223,7 +223,7 @@ export const BLOG_POSTS: BlogPost[] = [
 <h2 id="toc-0">Yaş Şartı</h2>
 <p>Özel güvenlik eğitimine başvurmak için 18 yaşını doldurmuş olmak gerekmektedir. Yasal olarak belirlenmiş bir üst yaş sınırı bulunmamaktadır. Ancak bazı işverenler kendi bünyesindeki pozisyonlar için yaş tercihi uygulayabilir.</p>
 <h2 id="toc-1">Eğitim Şartı</h2>
-<p>Özel güvenlik eğitimine katılmak için en az ilkokul (8 yıllık zorunlu eğitim) mezunu olmak yeterlidir. Lise, ön lisans veya lisans mezuniyeti ek avantaj sağlayabilir; ancak bu, yasal bir zorunluluk değildir.</p>
+<p>Silahsız özel güvenlik eğitimine katılmak için en az ilköğretim (8 yıllık zorunlu eğitim) mezunu olmak yeterlidir. Silahlı özel güvenlik eğitimi için ise en az lise mezuniyeti zorunludur.</p>
 <h2 id="toc-2">Sağlık Şartları</h2>
 <p>Silahsız eğitim için herhangi bir resmi sağlık kuruluşundan alınan güncel sağlık raporu yeterlidir. Silahlı eğitim için ise tam teşekküllü devlet hastanesinden alınan ve "silah taşımaya engel yoktur" ibaresini içeren sağlık kurulu raporu zorunludur. Özel hastane raporları silahlı eğitim için geçerli değildir.</p>
 <h2 id="toc-3">Güvenlik Soruşturması ve Adli Sicil</h2>
@@ -426,7 +426,7 @@ export const BLOG_POSTS: BlogPost[] = [
 <h2 id="toc-0">Ortak Evraklar (Her İki Program İçin)</h2>
 <ul>
 <li>TC kimlik kartı fotokopisi (ön ve arka yüz)</li>
-<li>En az ilkokul mezuniyetini gösteren diploma fotokopisi</li>
+<li>En az ilköğretim (silahsız) veya lise (silahlı) mezuniyetini gösteren diploma fotokopisi</li>
 <li>Son 6 ay içinde çekilmiş biyometrik fotoğraf (4 adet)</li>
 <li>E-devlet veya PTT'den alınan güncel adli sicil belgesi (sabıka kaydı)</li>
 <li>Resmi sağlık kuruluşundan alınan genel sağlık raporu</li>
