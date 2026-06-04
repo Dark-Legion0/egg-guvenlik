@@ -98,7 +98,7 @@ export default function Footer() {
 
         <div className="footer-bottom">
           <p className="text-dim" style={{ fontSize:".75rem" }}>© 2026 EGG Özel Güvenlik Eğitim Kurumu. Tüm hakları saklıdır.</p>
-          <p className="text-dim" style={{ fontSize:".75rem" }}>EGG Özel Güvenlik 2026 – <strong style={{ color:"rgba(255,255,255,.5)" }}>SAVA DİGİTAL MEDYA</strong> tarafından yapılmıştır.</p>
+          <p className="text-dim" style={{ fontSize:".75rem" }}>EGG Özel Güvenlik 2026 – <a href="https://savadigitalmedya.com/" target="_blank" rel="noopener noreferrer" style={{ color:"rgba(255,255,255,.5)", fontWeight:700, textDecoration:"none" }}>SAVA DİGİTAL MEDYA</a> tarafından yapılmıştır.</p>
         </div>
       </div>
     </footer>
